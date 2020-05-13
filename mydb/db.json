@@ -1,0 +1,68 @@
+{
+  "notes": [
+    {
+      "first_name": "Даниил",
+      "second_name": "Марков",
+      "third_name": "Андреевич",
+      "phone": "+4333333",
+      "favorite": true,
+      "id": 1
+    },
+    {
+      "first_name": "Алексей",
+      "second_name": "Алексеев",
+      "third_name": "Львович",
+      "phone": "+48394839",
+      "favorite": true,
+      "id": 2
+    },
+    {
+      "first_name": "Алексей",
+      "second_name": "Денисов",
+      "third_name": "Алексеевич",
+      "phone": "+3432339",
+      "favorite": false,
+      "id": 3
+    },
+    {
+      "id": 4,
+      "first_name": "Сергей",
+      "second_name": "Барыгин",
+      "third_name": "Георгиевич",
+      "phone": "43234232323",
+      "favorite": false
+    },
+    {
+      "id": 5,
+      "first_name": "Алексей",
+      "second_name": "Ярцев",
+      "third_name": " Алексеевич",
+      "phone": "+54745459444",
+      "favorite": true
+    },
+    {
+      "first_name": "Дамир",
+      "second_name": "Максяев",
+      "third_name": "Андреевич",
+      "phone": "432343",
+      "favorite": true,
+      "id": 6
+    },
+    {
+      "first_name": "Георгий",
+      "second_name": "Джикия",
+      "third_name": "Михтович",
+      "phone": "+423432322",
+      "favorite": false,
+      "id": 7
+    },
+    {
+      "first_name": "Роберт",
+      "second_name": "Рождественский",
+      "third_name": "Валерьевич",
+      "phone": "+199948334",
+      "favorite": true,
+      "id": 9
+    }
+  ]
+}
